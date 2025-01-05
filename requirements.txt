@@ -1,0 +1,2 @@
+streamlit==1.26.0  # For building the user interface
+ollama==0.3.1      # For interacting with the LLM
