@@ -35,7 +35,7 @@ The assistant integrates the following key components:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/vishnu9848/DesktopAssistant.git
+git clone https://github.com/vishnu7553/DesktopAssistant.git
 cd linux-assistant
 ```
 
