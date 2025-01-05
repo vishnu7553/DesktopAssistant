@@ -35,22 +35,23 @@ The assistant integrates the following key components:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/linux-assistant.git
+git clone https://github.com/vishnu9848/DesktopAssistant.git
 cd linux-assistant
-
+```
 
 ### Step 2: Install Dependencies
 A Makefile is provided to simplify the setup process. This will:
 ```bash
 make setup
-
+```
 
 ### Step 3: Run the Assistant
 To start the application, run:
 ```bash
 streamlit run src/main.py
-
+```
 ### Help:
 For installation help, run:
 ```bash
 make help
+```
